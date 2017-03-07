@@ -1,9 +1,12 @@
 // blah
+//import * as XlsxPopulate from 'xlsx-populate';
+
 var app = angular.module("XlsxApp", []);
 
 app.controller("MainController", function($scope){
     //var XlsxPopulate = require('xlsx-populate');
 
+    
     $scope.populate = function() {
         console.log("running populate...");
 
