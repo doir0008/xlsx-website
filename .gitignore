@@ -1,5 +1,6 @@
 index_ryan.html
 Travel_Authority_Form.xlsx
-examples/
-browser/
-bower_components/
+examples/*
+browser/*
+bower_components/*
+node_modules/*
